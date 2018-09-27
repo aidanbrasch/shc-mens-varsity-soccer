@@ -12,10 +12,10 @@ body {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 10px 19px;
+  padding: 15px 19px;
   text-decoration: none;
-  font-size: 18px;
-	border-right: 1px solid gray;
+  font-size: 25px;
+	border-right: 3px solid gray;
 }
 
 .topnav a:hover {
@@ -29,11 +29,11 @@ body {
 }
 
 #active {
-	color: gray;
+	color: blue;
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 4px solid green;
 }
 
 .img-section {
@@ -41,7 +41,7 @@ table, th, td {
   padding: 100px 200px 0 200px;
   text-align: center;
   background-image: url("https://shcathletics.com/library/images/demo1414.bigteamsdemo_com_3169/teamphotos/standard/VBSOC.JPG");
-  background-size: cover;
+  background-size: cover; 
   background-repeat: no-repeat;
   color: white;
 }
