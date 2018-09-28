@@ -38,9 +38,9 @@ table, th, td {
 
 .img-section {
   height: 100vh;
-  padding: 100px 200px 0 200px;
+  padding: 250px 200px 0 200px;
   text-align: center;
-  background-image: url("https://shcathletics.com/library/images/demo1414.bigteamsdemo_com_3169/teamphotos/standard/VBSOC.JPG");
+  background-image: url("./assets/pic9.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
